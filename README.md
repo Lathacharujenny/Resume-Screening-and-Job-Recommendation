@@ -1,6 +1,7 @@
 
 # Smart Resume Screening and Job Recommendation System
-![Resume Image](Image/resume_image.webp "Overview of Mood Analysis Flow")
+<img src="Image/resume_image.webp" alt="Overview of Mood Analysis Flow" title="Overview of Mood Analysis Flow" width="400">
+
 
 ## Project Overview
 
