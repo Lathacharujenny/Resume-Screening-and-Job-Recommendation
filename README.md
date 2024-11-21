@@ -1,6 +1,6 @@
 
 # Smart Resume Screening and Job Recommendation System
-<img src="Image/resume_image.webp" alt="Overview of Mood Analysis Flow" title="Overview of Mood Analysis Flow" width="400">
+<img src="Image/resume_image.webp" alt="Overview of Mood Analysis Flow" title="Overview of Mood Analysis Flow" width="600">
 
 
 ## Project Overview
@@ -9,7 +9,7 @@ This project implements an **Smart Resume Screening and Job Recommendation Syste
 
 It utilizes **Natural Language Processing (NLP)** techniques for **Resume Categorization**, **Resume Job Recommendation**, and **Resume Parsing (Information Extraction)**. Users can upload resumes in **TXT** or **PDF** formats, and the system will process the uploaded resume to extract relevant details and provide job recommendations based on the analysis.
 
-You can access the live application here: [Smart Resume Screening App](https://your-app-link-on-render.com).
+You can access the live application here: [Smart Resume Screening App](https://resume-screening-and-job-recommendation.onrender.com/).
 
 ## Features
 
@@ -80,7 +80,7 @@ Make sure you have the following software installed:
     ```
 
 3. Download the **jobs_dataset_with_features** from the release link:  
-   [Jobs Dataset with Features Release](https://your-dataset-link.com)
+   [Jobs Dataset with Features Release](https://github.com/Lathacharujenny/Resume-Screening-and-Job-Recommendation/releases/download/jobs_dataset_with_features/jobs_dataset_with_features.csv)
 
 4. Place the dataset in the appropriate directory as required by the application.
 
@@ -94,7 +94,7 @@ Make sure you have the following software installed:
 ## Accessing the Deployed App
 
 The application has been deployed on **Render**. You can use the live app here:  
-[Smart Resume Screening App](https://your-app-link-on-render.com).
+[Smart Resume Screening App](https://resume-screening-and-job-recommendation.onrender.com/).
 
 ## How to Use
 
