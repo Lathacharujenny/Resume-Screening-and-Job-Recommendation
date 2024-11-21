@@ -1,0 +1,9 @@
+numpy
+pandas
+pdfminer.six
+Flask
+seaborn
+matplotlib
+plotly
+scikit-learn
+PyPDF2
