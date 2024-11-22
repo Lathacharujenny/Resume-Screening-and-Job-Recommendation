@@ -70,7 +70,7 @@ Make sure you have the following software installed:
 
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/yourusername/smart-resume-screening.git
+    git clone https://github.com/yourusername/resume-screening-and-job-recommendation.git
     cd smart-resume-screening
     ```
 
